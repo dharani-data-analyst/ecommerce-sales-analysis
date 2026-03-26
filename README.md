@@ -1,2 +1,2 @@
 # ecommerce-sales-analysis
-E-commerce sales analysis using SQL, Python, and Power BI
+E-commerce Sales Data Analysis & Dashboard (SQL + Power BI)
